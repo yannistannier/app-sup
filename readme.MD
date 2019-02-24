@@ -21,7 +21,7 @@
 [script train 2](https://github.com/yannistannier/app-sup/blob/master/train_under.py)  
 [script train 3](https://github.com/yannistannier/app-sup/blob/master/train_over.py)  
 
-[res](https://github.com/yannistannier/app-sup/blob/master/Resultat-credit-fraud.ipynb)
+[result](https://github.com/yannistannier/app-sup/blob/master/Resultat-credit-fraud.ipynb)
 
 #### visa premier
 
