@@ -1,5 +1,7 @@
 ## Supervised learning project
 
+pdf : [Projet_App_sup.pdf](https://github.com/yannistannier/app-sup/blob/master/Projet_App_sup.pdf)
+
 #### Aggregation
 
 [code notebook](https://github.com/yannistannier/app-sup/blob/master/projet-aggregation.ipynb)
